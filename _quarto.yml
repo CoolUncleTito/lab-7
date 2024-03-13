@@ -9,6 +9,12 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: Lab.qmd
+        text: Labs
+      - href: Presentation.qmd
+        text: Presentation
+      - href: Project.qmd
+        text: Project  
 
 format:
   html:
@@ -18,9 +24,5 @@ format:
 
 editor: visual
 
-git remote set-url origin https://github.com/CoolUncleTito/lab-7.git
-git add .
-git commit -m "first commit"
-git branch -M main
-git push -u origin main
+
 

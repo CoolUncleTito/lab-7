@@ -2,8 +2,9 @@
 title: "About"
 ---
 
-About this site
+# Super cool website. 
 
-```{r}
-1 + 1
-```
+![Bird](images/Screen Shot 2024-03-12 at 3.33.41 PM.png) 
+
+# I am a senior Biology and Plant & Soil Science major at the University of Massachusetts- Amherst hoping to research ways to improve agricultural. One of my interests is studying pests (plant pathogens, animals and insects) and how to alleviate the damgages caused by them.  
+
